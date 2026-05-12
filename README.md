@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 ### 3. Add the model file
 Download `truthlens_best.h5` from the
-[Kaggle notebook](YOUR_KAGGLE_LINK)
+[Kaggle notebook]((https://www.kaggle.com/code/alaareda12/notebooka26819733b/notebook)(https://www.kaggle.com/code/alaareda7/notebook739d431909/notebook?scriptVersionId=316882088))
 and place it in the project root:
 
 ### 4. Run the app
